@@ -1,2 +1,2 @@
-# chandigarh-aqi-analysis-and-prediction
+# chandigarh-aqi-analysis
 Machine learning-based air quality analysis and AQI prediction using CPCB monitoring data from Chandigarh.
